@@ -1,0 +1,19 @@
+{
+  "name": "scp-dependencies",
+  "version": "1.0.0",
+  "description": "This repo contains minified versions of some libraries, which could not be found on the internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synergycp/scp-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synergycp/scp-dependencies/issues"
+  },
+  "homepage": "https://github.com/synergycp/scp-dependencies#readme"
+}
