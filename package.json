@@ -1,6 +1,6 @@
 {
   "name": "scp-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This repo contains minified versions of some libraries, which could not be found on the internet.",
   "main": "index.js",
   "scripts": {
